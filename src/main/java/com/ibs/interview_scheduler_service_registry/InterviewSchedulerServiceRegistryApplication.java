@@ -10,7 +10,7 @@ public class InterviewSchedulerServiceRegistryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InterviewSchedulerServiceRegistryApplication.class, args);
-        
+
 	}
 
 }
